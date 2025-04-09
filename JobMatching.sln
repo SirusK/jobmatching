@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobMatching", "JobMatching\JobMatching.csproj", "{F580A16C-0725-4C64-A05D-50BDAC743911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobMatchingTest", "JobMatchingTest\JobMatchingTest.csproj", "{B2BD3507-736E-4053-8F75-A80095E5B32F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F580A16C-0725-4C64-A05D-50BDAC743911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F580A16C-0725-4C64-A05D-50BDAC743911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F580A16C-0725-4C64-A05D-50BDAC743911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F580A16C-0725-4C64-A05D-50BDAC743911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BD3507-736E-4053-8F75-A80095E5B32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BD3507-736E-4053-8F75-A80095E5B32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BD3507-736E-4053-8F75-A80095E5B32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BD3507-736E-4053-8F75-A80095E5B32F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F40EA9-D2ED-4365-BBE8-D8462DD2250C}
+	EndGlobalSection
+EndGlobal
